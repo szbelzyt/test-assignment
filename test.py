@@ -1,5 +1,5 @@
 import numpy as np
-import min
+from run import *
 
 def test_min():
   assert min([1,2,3,4,5]) == 1
