@@ -1,4 +1,4 @@
-import numpy as np
 
 def min(a):
-  return np.min(a)
+  pass
+  # Create function here
