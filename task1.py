@@ -7,4 +7,8 @@ def rectangle_area(a, b):
     :return: area of the rectangle
     :raises ValueError: if either number was negative
     """
-    pass
+    
+    if a < 0 or b < 0:
+        raise ValueError("Sides of the rectangle must be a non negative value")
+
+    return a * b
