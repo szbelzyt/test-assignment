@@ -1,2 +1,3 @@
-# test-assignment
-Test assignment for Korona Science Class
+# Praca domowa
+
+Jakiś opis systemu prac domowych. Nazewnictwo plików, etc...
